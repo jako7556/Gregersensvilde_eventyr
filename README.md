@@ -1,2 +1,2 @@
 
-[side.html](Hjemmeside)
+[Hjemmeside](side.html)
