@@ -1,4 +1,4 @@
 # Mine mesterværk
 
-[Kiksekage](Kiksekage/)
-[stickman](Stickman/)
+- [Kiksekage](Kiksekage/)
+- [stickman](Stickman/)
