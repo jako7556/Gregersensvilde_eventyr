@@ -2,4 +2,4 @@
 
 - [Kiksekage](Kiksekage/)
 - [stickman](Stickman/)
-- [Mærkelig kugle](Mærkelig kugle/)
+- [Mærkelig kugle](Mærkelig_kugle/)
