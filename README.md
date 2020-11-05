@@ -1,3 +1,4 @@
-# jako7556.github.io
+# Mine mesterværk
 
-[Kiksekage](/
+- [Kiksekage](Kiksekage/)
+- [stickman](Stickman/)
