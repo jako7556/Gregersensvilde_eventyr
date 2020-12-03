@@ -1,3 +1,4 @@
-function setup()
-{Createcanvas(400,400)
+function setup(){
+Createcanvas(windowwidth,windowHeight);
+
 }
